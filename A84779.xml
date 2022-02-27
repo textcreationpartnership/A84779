@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from His Excellency Sir Tho: Fairfax, to the Lord Major, aldermen and Common-Councel of the city of London, from Kingston, Novemb. 19. 1647. To acquaint them with His Excellencies sending Col: Hewson with one thousand foot soldiers to quarter in the city, and the grounds thereof. Nov. 20. 1647. Imprimatur Gilbert Mabbot.</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84779</idno>
+            <idno type="STC">Wing F179</idno>
+            <idno type="STC">Thomason E416_18</idno>
+            <idno type="STC">ESTC R201978</idno>
+            <idno type="EEBO-CITATION">99862445</idno>
+            <idno type="PROQUEST">99862445</idno>
+            <idno type="VID">114604</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84779)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114604)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E416[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from His Excellency Sir Tho: Fairfax, to the Lord Major, aldermen and Common-Councel of the city of London, from Kingston, Novemb. 19. 1647. To acquaint them with His Excellencies sending Col: Hewson with one thousand foot soldiers to quarter in the city, and the grounds thereof. Nov. 20. 1647. Imprimatur Gilbert Mabbot.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Laurence Chapman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>November 22. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soldiers --  Billeting --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  Defenses --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114604:1" rendition="simple:additions"/>
+            <p>A LETTER From His Excellency Sir Tho: Fairfax, TO The Lord Major, Aldermen and Common-Councel of the City of LONDON, From KINGSTON, <hi>Novemb.</hi> 19. 1647.</p>
+            <p>To acquaint them with His Excellencies ſending Col: <hi>Hewſon</hi> with One thouſand Foot Soldiers to Quarter in the City, and the Grounds thereof.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Nov. 20. 1647.</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>Gilbert Mabbot.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Laurence Chapman, November</hi> 22. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114604:2"/>
+            <pb n="3" facs="tcp:114604:2"/>
+            <head>To the right Honorable, <hi>The Lord Mayor, Aldermen, and Com<g ref="char:EOLhyphen"/>mon Councel of the City of London:</hi>
+            </head>
+            <opener>
+               <salute>My Lord and Gentlemen,</salute>
+            </opener>
+            <p>WHat tenderneſs hath been exer<g ref="char:EOLhyphen"/>ciſed by my ſelf, and this Ar<g ref="char:EOLhyphen"/>my, towards the City; what care to preſerve it, from the leaſt damage or prejudice (notwithſtanding the juſt occaſi<g ref="char:EOLhyphen"/>ons and great provocations vvhich have thence been given) and with what patience we have waited for the raiſing of thoſe Ar<g ref="char:EOLhyphen"/>rears which have long ſince been due, I need not now uſe many words to expreſs: Your ſelves, the City and Kingdom do ſuffici<g ref="char:EOLhyphen"/>ently know it: We have lain here about <hi>London</hi> ſo long, as we cannot continue much longer, without intolerable Oppreſsion to theſe parts, if not the undoing of ſome, and in all this time (though the occaſion both of
+<pb n="4" facs="tcp:114604:3"/>our coming and ſtay hath been from the City) yet, in tenderneſs to the Trade and Freedom thereof, no part of the Army hath been quartered in it, but the parts adjacent have born the burthen, who gave no ſuch occaſion: And if, after ſo long and obſti<g ref="char:EOLhyphen"/>nate withholding what hath been ſo long due, in affront to ſo many Ordinances and Demands of Parliament, and in the face of an Army, (at a time, when ſo great a part of the City had made themſelves ſo obnoxi<g ref="char:EOLhyphen"/>ous to both) I ſhould now withdraw the Army from the City, before all the Arrears of Taxes thence due be paid; or if thoſe, who (after ſo many warnings from the Parliament, with penalties impoſed upon the Non-payment thereof within the time limited) have ſo obſtinately withheld their Dues ſo long beyond that time, ſhould now eſcape with the bare payment of their Arrears at laſt, I can expect no leſs, but that the ill Example thereof would, in other parts of the Kingdom, give great diſcou<g ref="char:EOLhyphen"/>ragements to Friends from paying their ſhares, and encouragements to Enemies to
+<pb n="5" facs="tcp:114604:3"/>withhold theirs as long as they can. Upon theſe Conſiderations (with the Advice of my Councel of War) I have deſired the Committee of the Army, That the penal<g ref="char:EOLhyphen"/>ties impoſed by the Parliament for <hi>Non</hi>-payment (as well as the Arrears themſelves) may be ſpeedily levyed; and that from all thoſe who have not before this time paid in their proportions of aſſeſſments, no leſs then the ful penalty may henceforth be accepted: And for the ſpeedy levying both of Arrears and penalties (according to the Ordinances of Parliament for that purpoſe) I have (with the ſame Advice) appointed Colonel <hi>Hewſon,</hi> with a Thouſand Foot, to come to mor<g ref="char:EOLhyphen"/>row to Quarter in the City, and within the late Lines of Communication, in ſuch pla<g ref="char:EOLhyphen"/>ces as he findes fitteſt, until this ſervice be accompliſhed; and in the proſecution there<g ref="char:EOLhyphen"/>of, of obſerve the Directions of the Com<g ref="char:EOLhyphen"/>mittee for the Army according to the ſaid Ordinances. If this courſe ſhould be a matter of wonder or offence to any, I make no doubt but the Neceſsity of the thing (which I have before repreſented) will
+<pb n="6" facs="tcp:114604:4"/>afford ſufficient ſatisfaction to all that wiſh well to the Parliament, the Army, City or Kingdom; and that thoſe whoſe wilfulneſs (if not Malignity or Deſign, to break the Army, and incenſe the Kingdom) have neceſ<g ref="char:EOLhyphen"/>ſitated this, will bear the blame both of the thing it ſelf, and of whatever ill conſequence may enſue.</p>
+            <p>I ſhall deſire the beſt care of your Lord<g ref="char:EOLhyphen"/>ſhip, and all that wiſh well to the Parlia<g ref="char:EOLhyphen"/>ment and Army, or tender the Safety of the City, That in this ſervice (ſo neceſſary both for the ends aforeſaid, and for the vindica<g ref="char:EOLhyphen"/>tion of the Authority of Parliament) no Impediment or Affront be given to the Officers or Soldiers imployed herein, from whence any further ill conſequence might be occaſioned; As on the other ſide I have commanded, and am very conſident, That all care will be taken by Col: <hi>Hewſon,</hi> and the Officers imployed under him, for the Soldiers orderly and civil demeanor, both in their Quarters and in the Service; and that not the leaſt wrong ſhall be done by them to any in the City, nor any damage, ſave
+<pb n="7" facs="tcp:114604:4"/>what the perſons refuſing to pay their Ar<g ref="char:EOLhyphen"/>rears, or penalties according to the Ordi<g ref="char:EOLhyphen"/>nance of Parliament, ſhall wilfully bring upon themſelves, and the Charge of Quar<g ref="char:EOLhyphen"/>tering the Soldiers till the Service be done; For which purpoſe I have given order to Col: <hi>Hewſon,</hi> that ſo ſoon as he hath (from the Committee of the Army or Collectors) the Liſts of what perſons are in Arrear, he ſhall quarter the Soldiers onely upon ſuch, as near as he can, with relation to the con<g ref="char:EOLhyphen"/>veniency of Quartering; and if any diſor<g ref="char:EOLhyphen"/>der or injury be done by the Soldiers or Officers, as I doubt not but Col: <hi>Hewſon</hi> will be careful to give redreſs, ſo in caſe of his neglect, I ſhall be ready, upon com<g ref="char:EOLhyphen"/>plaint, to do it to the utmoſt my ſelf; who am</p>
+            <closer>
+               <dateline>Kingston, <date>19. Nov. 1647.</date>
+               </dateline>
+               <signed>Your Lordſhips faithful Friend and Servant, T. FAIRFAX.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
